@@ -19,6 +19,7 @@
 * [Command-line options](cli.md)
 * [Console](console.md)
 * [Crypto](crypto.md)
+* [JWT / JWKS key rotation guide](jwt-jwks-rotation.md)
 * [Debugger](debugger.md)
 * [Deprecated APIs](deprecations.md)
 * [Diagnostics Channel](diagnostics_channel.md)
